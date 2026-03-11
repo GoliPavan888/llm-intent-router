@@ -54,3 +54,5 @@ python main.py --sample-tests
 - Confidence threshold (default `0.7`)
 - Manual override prefix (for example: `@code fix this bug`)
 - CLI output includes detected intent and confidence
+
+- Commit sequence note 1: incremental history entry.
