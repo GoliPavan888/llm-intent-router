@@ -56,3 +56,5 @@ python main.py --sample-tests
 - CLI output includes detected intent and confidence
 
 - Commit sequence note 1: incremental history entry.
+
+- Commit sequence note 2: incremental history entry.
