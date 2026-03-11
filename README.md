@@ -25,9 +25,20 @@ python -m venv .venv
 pip install -r requirements.txt
 ```
 
+## Clone
+```bash
+git clone https://github.com/GoliPavan888/llm-intent-router.git
+cd llm-intent-router
+```
+
 Set API key:
 ```bash
 set OPENAI_API_KEY=your_key_here
+```
+
+## Test
+```bash
+python -m unittest discover -s tests -v
 ```
 
 ## Run
@@ -54,65 +65,3 @@ python main.py --sample-tests
 - Confidence threshold (default `0.7`)
 - Manual override prefix (for example: `@code fix this bug`)
 - CLI output includes detected intent and confidence
-
-- Commit sequence note 1: incremental history entry.
-
-- Commit sequence note 2: incremental history entry.
-
-- Commit sequence note 3: incremental history entry.
-
-- Commit sequence note 4: incremental history entry.
-
-- Commit sequence note 5: incremental history entry.
-
-- Commit sequence note 6: incremental history entry.
-
-- Commit sequence note 7: incremental history entry.
-
-- Commit sequence note 8: incremental history entry.
-
-- Commit sequence note 9: incremental history entry.
-
-- Commit sequence note 10: incremental history entry.
-
-- Commit sequence note 11: incremental history entry.
-
-- Commit sequence note 12: incremental history entry.
-
-- Commit sequence note 13: incremental history entry.
-
-- Commit sequence note 14: incremental history entry.
-
-- Commit sequence note 15: incremental history entry.
-
-- Commit sequence note 16: incremental history entry.
-
-- Commit sequence note 17: incremental history entry.
-
-- Commit sequence note 18: incremental history entry.
-
-- Commit sequence note 19: incremental history entry.
-
-- Commit sequence note 20: incremental history entry.
-
-- Commit sequence note 21: incremental history entry.
-
-- Commit sequence note 22: incremental history entry.
-
-- Commit sequence note 23: incremental history entry.
-
-- Commit sequence note 24: incremental history entry.
-
-- Commit sequence note 25: incremental history entry.
-
-- Commit sequence note 26: incremental history entry.
-
-- Commit sequence note 27: incremental history entry.
-
-- Commit sequence note 28: incremental history entry.
-
-- Commit sequence note 29: incremental history entry.
-
-- Commit sequence note 30: incremental history entry.
-
-- Commit sequence note 31: incremental history entry.
