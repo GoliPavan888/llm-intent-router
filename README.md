@@ -70,3 +70,5 @@ python main.py --sample-tests
 - Commit sequence note 7: incremental history entry.
 
 - Commit sequence note 8: incremental history entry.
+
+- Commit sequence note 9: incremental history entry.
